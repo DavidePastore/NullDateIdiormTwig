@@ -35,11 +35,3 @@ $app->get('/', function () use ($app){
 });
 
 $app->run();
-
-This is a [thread](http://forums.phpfreaks.com/topic/285615-parisidiorm-err-empty-response-on-null-value-in-twig/) where there is the same problem.
-
-This solution is a little forced.
-
-The real problem is that the application crashes when you try to access to that field via twig. Even a simple check to see if the variable is defined leads to a crash.
-
-I created this project to repropose the same issue. Check it.
