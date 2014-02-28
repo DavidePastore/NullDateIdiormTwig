@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/composer"/>
+	<buildpathentry kind="src" path="app"/>
+	<buildpathentry kind="src" path="vendor/slim/extras"/>
+	<buildpathentry kind="src" path="vendor/j4mie/paris"/>
+	<buildpathentry kind="src" path="vendor/slim/slim"/>
+	<buildpathentry kind="src" path="vendor/twig/twig/lib"/>
+	<buildpathentry kind="src" path="vendor/j4mie/idiorm"/>
+	<buildpathentry kind="src" path="vendor/slim/views"/>
+</buildpath>

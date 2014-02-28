@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Null Date Idiorm Twig</title>
+    </head>
+    <body>
+        <h1>Null Date Idiorm Twig</h1>
+        <table>
+        	<thead>
+        		<tr>
+	        		<th>ID</th>
+	        		<th>Time</th>
+	        	</tr>
+        	</thead>
+        	<tbody>
+        		{% for test in tests %}
+        			<tr>
+        				<td>{{ test.TestID }}</td>
+        				<td>{{ test.Time }}</td> {# Try to comment this line #}
+	            	</tr>
+		        {% endfor %}
+        	</tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+{
+	"autoload" : {
+		"classmap" : [
+			"app/"
+		]
+	},
+	"name" : "nulldateidiormtwig/NullDateIdiormTwig",
+	"require" : {
+		"php" : ">=5.3",
+		"twig/twig" : "1.*",
+		"slim/slim" : "2.4.*",
+		"j4mie/paris" : "1.*",
+		"slim/extras" : "2.0.3",
+		"slim/views" : "0.1.*",
+		"j4mie/idiorm" : "1.*"
+	}
+}
