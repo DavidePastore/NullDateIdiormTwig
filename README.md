@@ -13,4 +13,4 @@ How to reproduce
 * ```composer update```;
 * Go into ```http://localhost/NullDateIdiormTwig/``` and cry;
 * Try to comment row 19 in ```templates/index.twig```;
-* Go into ```http://localhost/NullDateIdiormTwig/``` and smile;
+* Go into ```http://localhost/NullDateIdiormTwig/``` and smile.
