@@ -1,7 +1,7 @@
 NullDateIdiormTwig
 ==================
 
-A little project to present a problem with null date for idiorm/twig
+A little project to present a problem with null date for idiorm/twig. More info here: https://github.com/j4mie/idiorm/issues/181.
 
 
 How to reproduce
